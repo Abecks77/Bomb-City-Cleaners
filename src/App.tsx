@@ -391,7 +391,7 @@ export default function App() {
                   <div className="w-10 h-10 bg-olive-50 rounded-full flex items-center justify-center">
                     <Mail className="w-5 h-5 text-olive-600" />
                   </div>
-                  <span className="font-medium">contact@bombcitycleaners.com</span>
+                  <span className="font-medium">bccleanout@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-4 text-zinc-700">
                   <div className="w-10 h-10 bg-olive-50 rounded-full flex items-center justify-center">
